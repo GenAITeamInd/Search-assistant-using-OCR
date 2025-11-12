@@ -1,0 +1,7 @@
+.container { max-width: 980px; margin: 20px auto; padding: 0 16px; font-family: system-ui, Arial; }
+h2 { margin-bottom: 12px; }
+.card { border: 1px solid #ddd; border-radius: 12px; padding: 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.row { display: flex; gap: 16px; flex-wrap: wrap; }
+.thumb { width: 200px; height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid #eee; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; }
+.small { width: 120px; height: 90px; object-fit: cover; border-radius: 8px; border: 1px solid #eee; }
