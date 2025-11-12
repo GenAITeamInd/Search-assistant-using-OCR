@@ -1,0 +1,16 @@
+{
+  "FG12345": {
+    "description": "Widget A",
+    "quantity": 200,
+    "site": "Mumbai",
+    "batch": "B-09",
+    "image_name": "FG12345_widgetA.jpg"
+  },
+  "FG23456": {
+    "description": "Widget B",
+    "quantity": 150,
+    "site": "Pune",
+    "batch": "A-12",
+    "image_name": "FG23456_widgetB.jpg"
+  }
+}
